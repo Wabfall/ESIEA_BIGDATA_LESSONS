@@ -1,5 +1,7 @@
 # ESIEA - Big Data
 
+** Présenté par MT, Full Stack Developer AI/DevOps Engineer & IT Trainer**
+
 ***Septembre 2024***
 
 ## Plan du Cours
