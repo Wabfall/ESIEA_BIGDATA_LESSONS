@@ -15,13 +15,13 @@
 
   - [Théorie](./PARTIE_00/NOSQL/BASICS/)  
 
-Coming Soon
+  - [Pratique](./PARTIE_00/NOSQL/TP/inter-py-mongo.ipynb)
+  
+Coming Soon 
 
-  - [Pratique](./PARTIE_00/NOSQL/TP/)
+  - [Evaluation](./PARTIE_00/NOSQL/EVALUATION/inter-py-mongo-evaluation.md)
 
-    - [Evaluation](./PARTIE_00/NOSQL/EVALUATION/inter-py-mongo-evaluation.md)
-
-    - [Correction de l'évaluation](./PARTIE_00/NOSQL/SOLUTION_EVALUATION/python-mongodb-correction.ipynb)
+  - [Correction de l'évaluation](./PARTIE_00/NOSQL/SOLUTION_EVALUATION/python-mongodb-correction.ipynb)
 
 - [Administration de base de données](./PARTIE_00/ADMIN_BDD/README.md)
 
