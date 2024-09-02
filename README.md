@@ -1,6 +1,6 @@
 # ESIEA - Big Data
 
-** Présenté par MT, Full Stack Developer AI/DevOps Engineer & IT Trainer**
+**Présenté par MT, Full Stack Developer AI/DevOps Engineer & IT Trainer**
 
 ***Septembre 2024***
 
