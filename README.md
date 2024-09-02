@@ -7,7 +7,7 @@
 ## Plan du Cours
 
 
-### [Partie 00 : Introduction + NoSQL)](./PARTIE_00/)
+### [Partie 00 : Introduction + NoSQL](./PARTIE_00/)
 
 - [Introduction à la Big Data](./PARTIE_00/INTRO_BIG_DATA/Pres_IntroBigData.pdf))
 
