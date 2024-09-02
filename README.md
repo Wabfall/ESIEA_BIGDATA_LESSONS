@@ -15,15 +15,13 @@
 
   - [Théorie](./PARTIE_00/NOSQL/BASICS/)  
 
-  - [Pratique](./PARTIE_00/NOSQL/TP/inter-py-mongo.ipynb)
-  
-Coming Soon 
+  - [Pratique](./PARTIE_00/NOSQL/TP/inter-py-mongo.ipynb) 
 
   - [Evaluation](./PARTIE_00/NOSQL/EVALUATION/inter-py-mongo-evaluation.md)
 
-  - [Correction de l'évaluation](./PARTIE_00/NOSQL/SOLUTION_EVALUATION/python-mongodb-correction.ipynb)
+Coming Soon
 
-- [Administration de base de données](./PARTIE_00/ADMIN_BDD/README.md)
+  - [Correction de l'évaluation](./PARTIE_00/NOSQL/SOLUTION_EVALUATION/python-mongodb-correction.ipynb)
 
 ### [Partie 01 : Big Data (2 jours)](./PARTIE_01/)
 
