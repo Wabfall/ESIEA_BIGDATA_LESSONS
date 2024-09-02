@@ -11,11 +11,11 @@
 
 - [Introduction à la Big Data](./PARTIE_00/INTRO_BIG_DATA/Pres_IntroBigData.pdf))
 
-Coming Soon
-
 - [NoSQL (MongoDB)](./PARTIE_00/NOSQL/)
 
   - [Théorie](./PARTIE_00/NOSQL/BASICS/)  
+
+Coming Soon
 
   - [Pratique](./PARTIE_00/NOSQL/TP/)
 
